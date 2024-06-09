@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Jiacheng Liu, a Ph.D. candidate in Electronics and Computer Engineering at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), conducting research in the Spintronic Quantum Materials Laboritory ([SQML](https://sqml.hkust.edu.hk/)), under the supervision of Prof. ([Qiming SHAO](https://scholar.google.com/citations?hl=zh-CN&user=i4v4ng4AAAAJ). From November 2023 to June 2024, I visited the ([Quantum Nano-Scale Magnetism Research Team](https://www.riken.jp/en/research/labs/cems/qtm_nanoscale_magn/)) at RIKEN. My research primarily focuses on the hybrid systems based on magnonics and quantum spintronic device design.
+I am Jiacheng Liu, a Ph.D. candidate in Electronics and Computer Engineering at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), conducting research in the Spintronic Quantum Materials Laboritory ([SQML](https://sqml.hkust.edu.hk/)), under the supervision of Prof. [Qiming SHAO](https://scholar.google.com/citations?hl=zh-CN&user=i4v4ng4AAAAJ). From November 2023 to June 2024, I visited the [Quantum Nano-Scale Magnetism Research Team](https://www.riken.jp/en/research/labs/cems/qtm_nanoscale_magn/) at RIKEN. My research primarily focuses on the hybrid systems based on magnonics and quantum spintronic device design.
 
 A data-driven personal website
 ======
