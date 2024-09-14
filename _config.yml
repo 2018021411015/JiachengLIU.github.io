@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiacheng LIU / Site Title"
+title                    : "Jiacheng LIU (刘嘉诚)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,19 +25,19 @@ author:
   name             : "Jiacheng LIU"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Hong Kong"
+  location         : "Hong Kong SAR"
   employer         : "HKUST"
   uri              : # URL
   email            : "jliuex@connect.ust.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=_iueNKUAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8377-4375"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jiacheng-Liu-37"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
